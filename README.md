@@ -40,3 +40,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 **Sandipto Saha · CSE-19 · Patuakhali Science and Technology University (PSTU)**  
 OS Algorithms Sessional Project
+
+<p align="center">
+  <img src="./ss3.png" alt="AlgoOS Screenshot" width="900"/>
+</p>
